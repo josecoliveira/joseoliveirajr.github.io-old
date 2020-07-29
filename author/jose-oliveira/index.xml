@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>José Oliveira</title>
-    <link>https://joseoliveirajr.github.io/</link>
-      <atom:link href="https://joseoliveirajr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://joseoliveirajr.github.io/author/jose-oliveira/</link>
+      <atom:link href="https://joseoliveirajr.github.io/author/jose-oliveira/index.xml" rel="self" type="application/rss+xml" />
     <description>José Oliveira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
       <title>José Oliveira</title>
-      <link>https://joseoliveirajr.github.io/</link>
+      <link>https://joseoliveirajr.github.io/author/jose-oliveira/</link>
     </image>
     
   </channel>
