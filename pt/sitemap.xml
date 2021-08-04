@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://joseoliveirajr.github.io/pt/authors/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="pt"
                 href="https://joseoliveirajr.github.io/pt/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://joseoliveirajr.github.io/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="pt"
                 href="https://joseoliveirajr.github.io/pt/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://joseoliveirajr.github.io/pt/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="pt"
                 href="https://joseoliveirajr.github.io/pt/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://joseoliveirajr.github.io/pt/author/jose-oliveira/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="pt"
                 href="https://joseoliveirajr.github.io/pt/author/jose-oliveira/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://joseoliveirajr.github.io/pt/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="pt"
                 href="https://joseoliveirajr.github.io/pt/publication_types/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://joseoliveirajr.github.io/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -85,5 +74,4 @@
                 href="https://joseoliveirajr.github.io/pt/tags/"
                 />
   </url>
-  
 </urlset>
